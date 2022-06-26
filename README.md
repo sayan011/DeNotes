@@ -1,7 +1,7 @@
 # DeNotes
 <br/>
 
-A Decentralized  Platform to Share,Donate,Buy,Sell Study-Materials such as Books,Notes,Previous Year Question Papers,Mock-Test Papers and anything a student needs  using **Crypto**.Students won’t waste time searching for it Online anymore.
+A Decentralized  Platform to Share,Donate,Buy,Sell Study-Materials such as e-Books,Notes,Previous Year Question Papers,Mock-Test Papers and anything a student needs  using **Crypto**.Students won’t waste time searching for it Online anymore.
 
 **Problem**:Student who doesn't attend classes that much & the students don't do the classes seriously usually don't prepare notes themselves.They usually starts studying a week before exams & they don't get enough time to go through the whole books.They need compact notes,PYQs,Suggestive Questions,quality Study Materials.
 <br/><br/>
