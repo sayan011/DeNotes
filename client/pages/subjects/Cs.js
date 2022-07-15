@@ -1,7 +1,7 @@
 import * as React from "react";
 import SubjctCard from "../../components/SubjectCard"
 
-const Cs = () => {
+const Cs = ()  => {
   return (
     <>
       <div className="bg-slate-800 py-6">
